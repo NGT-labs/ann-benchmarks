@@ -84,6 +84,7 @@ Results
 
 All PRs that were still unmerged as of October 11, 2026 have been merged.
 Because there are too many algorithms to benchmark exhaustively, the evaluation was conducted in two stages — a preliminary round and a final round.
+Further details about the evaluation process are available in this [article](https://medium.com/@masajiro.iwasaki/ann-benchmarks-results-from-a-two-stage-evaluation-e224d69ce225).
 The benchmarks were run on a virtual machine hosted on [Sakura Cloud](https://cloud.sakura.ad.jp/) provided by [SAKURA internet Inc](https://www.sakura.ad.jp/corporate/en/), with the following specifications:
 
 - CPU: Intel Xeon Gold 6230R @ 2.10 GHz
@@ -176,8 +177,6 @@ glove-25-angular
 ----------------
 
 ![glove-25-angular](results/glove-25-angular.png)
-
-TODO: update plots on <http://ann-benchmarks.com>.
 
 Install
 =======
